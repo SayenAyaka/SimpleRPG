@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RPG dragon simple/1.0.0": {
+        "runtime": {
+          "RPG dragon simple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RPG dragon simple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

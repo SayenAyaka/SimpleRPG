@@ -1,0 +1,15 @@
+D:\Projects\0 C SHARP\RPG dragon simple\RPG dragon simple\bin\Debug\net6.0\RPG dragon simple.exe
+D:\Projects\0 C SHARP\RPG dragon simple\RPG dragon simple\bin\Debug\net6.0\RPG dragon simple.deps.json
+D:\Projects\0 C SHARP\RPG dragon simple\RPG dragon simple\bin\Debug\net6.0\RPG dragon simple.runtimeconfig.json
+D:\Projects\0 C SHARP\RPG dragon simple\RPG dragon simple\bin\Debug\net6.0\RPG dragon simple.dll
+D:\Projects\0 C SHARP\RPG dragon simple\RPG dragon simple\bin\Debug\net6.0\RPG dragon simple.pdb
+D:\Projects\0 C SHARP\RPG dragon simple\RPG dragon simple\obj\Debug\net6.0\RPG dragon simple.csproj.AssemblyReference.cache
+D:\Projects\0 C SHARP\RPG dragon simple\RPG dragon simple\obj\Debug\net6.0\RPG dragon simple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\0 C SHARP\RPG dragon simple\RPG dragon simple\obj\Debug\net6.0\RPG dragon simple.AssemblyInfoInputs.cache
+D:\Projects\0 C SHARP\RPG dragon simple\RPG dragon simple\obj\Debug\net6.0\RPG dragon simple.AssemblyInfo.cs
+D:\Projects\0 C SHARP\RPG dragon simple\RPG dragon simple\obj\Debug\net6.0\RPG dragon simple.csproj.CoreCompileInputs.cache
+D:\Projects\0 C SHARP\RPG dragon simple\RPG dragon simple\obj\Debug\net6.0\RPG dragon simple.dll
+D:\Projects\0 C SHARP\RPG dragon simple\RPG dragon simple\obj\Debug\net6.0\refint\RPG dragon simple.dll
+D:\Projects\0 C SHARP\RPG dragon simple\RPG dragon simple\obj\Debug\net6.0\RPG dragon simple.pdb
+D:\Projects\0 C SHARP\RPG dragon simple\RPG dragon simple\obj\Debug\net6.0\RPG dragon simple.genruntimeconfig.cache
+D:\Projects\0 C SHARP\RPG dragon simple\RPG dragon simple\obj\Debug\net6.0\ref\RPG dragon simple.dll
